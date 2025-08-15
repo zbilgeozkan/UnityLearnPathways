@@ -5,6 +5,8 @@ This repository contains scripts created while working through the [Unity Learn 
 ## Contents
 
 - `Prototype1/Assets/Scripts` – Scripts written during Prototype 1 exercises.
+- `Challenge1/Assets/Scripts` – Scripts written during Challenge 1 exercises.
+- `Prototype2/Assets/Scripts` – Scripts written during Prototype 2 exercises.
 - Future prototypes may be added under the same repository.
 
 ## How to use
