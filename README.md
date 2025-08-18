@@ -4,10 +4,12 @@ This repository contains scripts created while working through the [Unity Learn 
 
 ## Contents
 
-- `Prototype1/Assets/Scripts` – Scripts written during Prototype 1 exercises.
-- `Challenge1/Assets/Scripts` – Scripts written during Challenge 1 exercises.
-- `Prototype2/Assets/Scripts` – Scripts written during Prototype 2 exercises.
-- Future prototypes may be added under the same repository.
+- `Prototype1/Assets/Scripts` – Scripts created while working on the **Prototype 1** exercises.
+- `Prototype2/Assets/Scripts` – Scripts created while working on the **Prototype 2** exercises.
+- `ModTheCubeChallenge/Assets/ModTheCube` – Scripts and assets for the **Cube Challenge**.
+- `Challenge1/Assets` – Scripts for **Challenge 1** exercises.
+- `Challenge2/Assets/Scripts` – Scripts for **Challenge 2** exercises.
+- Future prototypes and challenges may be added under this repository.
 
 ## How to use
 
